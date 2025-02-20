@@ -8,7 +8,7 @@ int main() {
     int incValue;       // 소수 판별을 위해 나눗셈에 사용할 변수
 
     // 사용자에게 2 이상의 정수를 입력하도록 요청
-    printf("2 이상의 정수를 입력 :");
+    printf("2 이상의 정수를 입력하세요 : ");
     scanf("%d", &inputValue);
 
     // 2부터 inputValue까지 하나씩 검사
